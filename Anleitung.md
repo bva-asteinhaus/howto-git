@@ -23,8 +23,10 @@
 	
 ## Das erste Git-Repository erstellen (init)
 Es ist recht simpel, eines leeren Repository zu erstellen.
+
 	cd <arbeitsverzeichnis>
 	git init
+
 Mit nur einem Befehl erstellt man ein vollwertiges lokales Repository!
 
 ## Arbeitskopie erstellen (fetch / clone)
