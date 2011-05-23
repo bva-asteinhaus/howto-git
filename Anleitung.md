@@ -18,8 +18,8 @@
     * Then run `make install`
 
 ### Auf Windows
-  * [TortoiseGit][http://code.google.com/p/tortoisegit/]
-  * [msysgit][http://code.google.com/p/msysgit/]
+  * [TortoiseGit](http://code.google.com/p/tortoisegit/)
+  * [msysgit](http://code.google.com/p/msysgit/)
 	
 ## Das erste Git-Repository erstellen (init)
 Es ist recht simpel, eines leeren Repository zu erstellen.
@@ -29,10 +29,11 @@ Mit nur einem Befehl erstellt man ein vollwertiges lokales Repository!
 
 ## Arbeitskopie erstellen (fetch / clone)
 Besteht bereits ein Repository mit Inhalt, erstellt man sich
-eine lokalte Arbeitskopie in einem eigenen Git-Repository. Dazu erstellt man im gewünschten Verzeichnis ein neues Repository (init) und holt sich eine Kopie.
-	git fetch <URL>
+eine lokalte Arbeitskopie in einem eigenen Git-Repository. Dazu erstellt man im gewuenschten Verzeichnis ein neues Repository (init) und holt sich eine Kopie.
 
-Alternativ zu `git init` und `git fetch` gibt es auch die `git clone`, mit dem erst ein neues Verzeichnis erstellt wird, und dann die gewünschte Kopie gemacht wird.
+	git fetch \<URL\>
+
+Alternativ zu `git init` und `git fetch` gibt es auch die `git clone`, mit dem erst ein neues Verzeichnis erstellt wird, und dann die gewuenschte Kopie gemacht wird.
 	
 ## Dateien in das Repo aufnehmen (add + commit)
 ...
