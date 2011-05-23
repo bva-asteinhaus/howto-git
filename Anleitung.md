@@ -31,7 +31,7 @@ Mit nur einem Befehl erstellt man ein vollwertiges lokales Repository!
 Besteht bereits ein Repository mit Inhalt, erstellt man sich
 eine lokalte Arbeitskopie in einem eigenen Git-Repository. Dazu erstellt man im gewuenschten Verzeichnis ein neues Repository (init) und holt sich eine Kopie.
 
-	git fetch \<URL\>
+	git fetch <URL>
 
 Alternativ zu `git init` und `git fetch` gibt es auch die `git clone`, mit dem erst ein neues Verzeichnis erstellt wird, und dann die gewuenschte Kopie gemacht wird.
 	
