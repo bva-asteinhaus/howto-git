@@ -19,7 +19,7 @@
 
 ### Auf Windows
   * [TortoiseGit](http://code.google.com/p/tortoisegit/)
-  * [msysgit](http://code.google.com/p/msysgit/)
+  * [msysgit](http://code.google.com/p/msysgit/) bzw. [PortableGit](http://code.google.com/p/msysgit/downloads/list?can=2&q=PortableGit)
 	
 ## Das erste Git-Repository erstellen (init)
 Es ist recht simpel, eines leeren Repository zu erstellen.
