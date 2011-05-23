@@ -2,10 +2,9 @@
 
 ## Binaries holen
 
-## Auf Linux
+### Auf Linux
 
-### Ubuntu/Debian
-  * Binaries aus dem Paketmanager
+  * Binaries aus dem Paketmanager (Ubuntu)
     * `apt-get git-core`
     * `apt-get git-gui`
     * `apt-get git-doc`
@@ -17,11 +16,21 @@
     * Zip-Archiv der Sourcen: `http://kernel.org/pub/software/scm/git/`
     * Run `make`
     * Then run `make install`
+
+### Auf Windows
+  * [TortoiseGit]: [http://code.google.com/p/tortoisegit/]
+  * [msysgit]: [http://code.google.com/p/msysgit/]
 	
-## Das erste Git-Repository erstellen
+## Das erste Git-Repository erstellen (init)
 	* Erstellen eines leeren Repository
 		* `cd <arbeitsverzeichnis>`
 		* `git init`
 Mit nur einem Befehl erstellt man ein vollwertiges lokales Repository!
 	
-
+## Dateien in das Repo aufnehmen (add + commit)
+...
+## Status und Historie
+...
+## Synchonisierung von dezentralen Repos (remote, push + pull)
+...
+## ...
