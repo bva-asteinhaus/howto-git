@@ -17,4 +17,11 @@
     * Zip-Archiv der Sourcen: `http://kernel.org/pub/software/scm/git/`
     * Run `make`
     * Then run `make install`
+	
+## Das erste Git-Repository erstellen
+	* Erstellen eines leeren Repository
+		* `cd <arbeitsverzeichnis>`
+		* `git init`
+Mit nur einem Befehl erstellt man ein vollwertiges lokales Repository!
+	
 
